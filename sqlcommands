@@ -1,3 +1,6 @@
 CREATE DATABASE users;
 USE users;
-CREATE TABLE ORDER (order_id int primary key,quantity int);
+CREATE TABLE orders (
+    order_id INT PRIMARY KEY,
+    quantity INT
+);
