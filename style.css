@@ -46,3 +46,14 @@ nav a:hover {
     /* Other existing styles for product cards */
 }
 
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust as needed */
+}
+
+/* Style the table */
+#Table{
+    color: #000
+}
