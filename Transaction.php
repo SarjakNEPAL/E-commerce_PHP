@@ -17,11 +17,15 @@
         <span class="topban">
             <div class="navbar">
                 <img src="makeup.png" class="logo">
-                <h1 class="logotxt">E-Mart</h1>
+                <h1 class="logotxt">Check Out</h1>
                 <ul>
                     <li><a href="products.php">My Orders</a></li>
                 </ul>
             </div>
-</span>
+        </span>
+        <div class= 'content'>
+            
+        </div>
+    </div>
 </body>
 </html>
